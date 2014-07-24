@@ -1,6 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
+namespace Redeye\RdeyCASRestLogin;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Cookie\SessionCookieJar;
