@@ -1,4 +1,4 @@
-RedyCASRestLogin - CAS login as REST request
+RdeyCASRestLogin - CAS login as REST request
 ================
 This small lib is intended to be used with the Nginx module auth_request.
 Nginx pass a subrequest to auth.php. Which proceeds with authentication and if required authorization of the user.
