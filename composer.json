@@ -1,0 +1,15 @@
+{
+    "name": "redeye/cas-rest-login",
+    "description": "Log in to CAS Server in subrequest over REST",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Kolvik",
+            "email": "daniel.kolvik@redeye.se"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "4.1.*@dev"
+    }
+}
